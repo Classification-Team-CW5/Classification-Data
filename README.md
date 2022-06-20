@@ -14,6 +14,7 @@ Data The collection of this data was funded by a Canada Foundation for Innovatio
 - tweetid: Twitter unique id
 
 # Files available for download
-* train.csv - You will use this data to train your model.
-* test.csv - You will use this data to test your model.
-* SampleSubmission.csv - is an example of what your submission file should look like. The order of the rows does not matter, but the names of the tweetid's must be correct.
+* train.csv - We will use this data to train your model.
+* test_with_no_labels.csv - We will use this data to test your model.
+* resample.png - Picture diagram explaining kfold validation and bootstrapping. 
+* imbalance.png - Picture depicting the balanced accurancy formula 
