@@ -25,21 +25,21 @@ The data looks like this in github:
 
 ### Train Data
 
-<img src="https://github.com/Classification-Team-CW5/Classification-Data/blob/main/pictures%20of%20train%20set%20raw/github%20view%20of%20data.jpg?raw=true" alt="Github train data" title="Github train data" width="350" height="200" /> 
+<img src="https://github.com/Classification-Team-CW5/Classification-Data/blob/main/pictures%20of%20train%20set%20raw/github%20view%20of%20data.jpg?raw=true" alt="Github train data" title="Github train data" width="450" height="250" /> 
 
 ### Test Data
 
-<img src="https://github.com/Classification-Team-CW5/Classification-Data/blob/main/pictures%20of%20train%20set%20raw/github%20view%20of%20the%20test%20data%20.jpg?raw=true" alt="Github test data" title="Github test data" width="350" height="200" /> 
+<img src="https://github.com/Classification-Team-CW5/Classification-Data/blob/main/pictures%20of%20train%20set%20raw/github%20view%20of%20the%20test%20data%20.jpg?raw=true" alt="Github test data" title="Github test data" width="450" height="250" /> 
 
 When you download the data and present it in excel it has the following representation:
 
 ### Train Data 
 
-<img src="https://github.com/Classification-Team-CW5/Classification-Data/blob/main/pictures%20of%20train%20set%20raw/pandas%20view%20of%20the%20train%20data%20.jpg?raw=true" alt="Pandas train data" title="Pandas train data" width="350" height="200" /> 
+<img src="https://github.com/Classification-Team-CW5/Classification-Data/blob/main/pictures%20of%20train%20set%20raw/pandas%20view%20of%20the%20train%20data%20.jpg?raw=true" alt="Pandas train data" title="Pandas train data" width="450" height="250" /> 
 
 ### Test Data
 
-<img src="https://github.com/Classification-Team-CW5/Classification-Data/blob/main/pictures%20of%20train%20set%20raw/pandas%20view%20of%20the%20test%20data%20.jpg?raw=true" alt="Pandas test data" title="Pandas test data" width="350" height="200" /> 
+<img src="https://github.com/Classification-Team-CW5/Classification-Data/blob/main/pictures%20of%20train%20set%20raw/pandas%20view%20of%20the%20test%20data%20.jpg?raw=true" alt="Pandas test data" title="Pandas test data" width="450" height="250" /> 
 
 From the representation above we can see that this is not ideal for any of the data representation that we want to do and thus we import this data into our notebook found here using the following code :
 ```python:
