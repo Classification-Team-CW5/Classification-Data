@@ -34,7 +34,10 @@ The data looks like this in github:
 <img src="https://github.com/Classification-Team-CW5/Classification-Data/blob/main/pictures%20of%20train%20set%20raw/github%20view%20of%20the%20test%20data%20.jpg?raw=true" alt="Github test data" title="Github test data"  /> 
 
 ## MS Excel
-When you download the data and present it in excel it has the following representation:
+When you download the data Microsoft Excel will most likely be the default app for opening the data on your device the pictures below show how these files will be represented by Microsoft Excel upon opening them using that app. 
+>Please also note that there are a lot more rows in the files than the fourteen that are represented in the images below 
+
+Excel it has the following representation:
 
 #### Train Data MS Excel
 
