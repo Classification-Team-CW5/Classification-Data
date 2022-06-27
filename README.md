@@ -25,7 +25,7 @@ The data looks like this in github:
 
 ### Train Data
 
-<img src="https://github.com/Classification-Team-CW5/Classification-Data/blob/main/pictures%20of%20train%20set%20raw/github%20view%20of%20data.jpg?raw=true" alt="Github train data" title="Github train data" width="450" height="250" /> 
+<img src="https://github.com/Classification-Team-CW5/Classification-Data/blob/main/pictures%20of%20train%20set%20raw/github%20view%20of%20data.jpg?raw=true" alt="Github train data" title="Github train data"  /> 
 
 ### Test Data
 
