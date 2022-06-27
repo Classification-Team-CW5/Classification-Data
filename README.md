@@ -48,9 +48,9 @@ train = pd.read_csv("https://raw.githubusercontent.com/Classification-Team-CW5/C
 test = pd.read_csv("https://raw.githubusercontent.com/Classification-Team-CW5/Classification-Data/main/test_with_no_labels.csv")
 
 ```
-In the code above the test data has been saved as pandas dataframes with the variables '''test''' and '''train''' respectively 
+In the code above the test data has been saved as pandas dataframes with the variables `test` and `train` respectively 
 
-This data can be seen using the '''.head()''' function on a pandas data frame which by default displays the first five rows of the data by default :
+This data can be seen using the `.head()` function on a pandas data frame which by default displays the first five rows of the data by default :
 
 ### Train Data 
 
@@ -58,7 +58,7 @@ This data can be seen using the '''.head()''' function on a pandas data frame wh
 
 Notice how due to the way the data has been imported an index has automatically been generated as highlighted in yellow on both the test and the train dataframes. 
 
->The '''test''' data has two columns and the '''train''' data has three columns the '''sentiment''' column being the one that is present in the train data and not in the test data 
+>The `test` data has two columns and the `train` data has three columns the `sentiment` column being the one that is present in the train data and not in the test data 
 
 # Quick Overview of the data 
 
