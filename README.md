@@ -1,8 +1,15 @@
 # Classification-Data
 
+This page serves as an introductory guide to the data that is found in this repo the data is a collection of tweets. There are two primary csv files to look at the two being the `train.csv` (We will use this data to train your model) and `test_with_no_labels.csv` (We will use this data to test your model). We will highlight the usecases for these two data sets below and instructions for the reader of this document on how to use the datasets in Jupyter notebooks (using pandas) and MS Excel
+
 ##  Table of contents
+
 1. [Data Description](https://github.com/Classification-Team-CW5/Classification-Data#data-description)
-2. []
+2. [Class Description](https://github.com/Classification-Team-CW5/Classification-Data#class-description)
+3. [Variable definitions](https://github.com/Classification-Team-CW5/Classification-Data#variable-definitions)
+4. [Files available for download](https://github.com/Classification-Team-CW5/Classification-Data#files-available-for-download)
+5. [Using the data](https://github.com/Classification-Team-CW5/Classification-Data#using-the-data)
+6. [Quick Overview of the data](https://github.com/Classification-Team-CW5/Classification-Data#quick-overview-of-the-data)
 
 ## Data Description
 Data The collection of this data was funded by a Canada Foundation for Innovation JELF Grant to Chris Bauch, University of Waterloo. The dataset aggregates tweets pertaining to climate change collected between Apr 27, 2015 and Feb 21, 2018. In total, 43943 tweets were collected. Each tweet is labelled as one of the following classes:
