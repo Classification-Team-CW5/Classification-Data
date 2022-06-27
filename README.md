@@ -1,7 +1,7 @@
 # Classification-Data
 
 ##  Table of contents
-1. [Data Description]("https://github.com/Classification-Team-CW5/Classification-Data#data-description")
+1. [Data Description](https://github.com/Classification-Team-CW5/Classification-Data#data-description)
 2. []
 
 ## Data Description
@@ -106,11 +106,11 @@ The data above has the following properties:
 
 #### Train data:
 
-- [The train data]("https://raw.githubusercontent.com/Classification-Team-CW5/Classification-Data/main/train.csv") has three columns when imported in pandas namingly `sentiment`, `message` and `tweetid` please refer [here]("https://github.com/Classification-Team-CW5/Classification-Data/blob/main/README.md#variable-definitions") for more detail on what these headings represent
+- [The train data](https://raw.githubusercontent.com/Classification-Team-CW5/Classification-Data/main/train.csv) has three columns when imported in pandas namingly `sentiment`, `message` and `tweetid` please refer [here](https://github.com/Classification-Team-CW5/Classification-Data/blob/main/README.md#variable-definitions) for more detail on what these headings represent
 -The train data consists of 15819 rows if working in pandas you can see this by using `.info()` function on the data 
 
 #### Test data 
-- [The test data]("https://raw.githubusercontent.com/Classification-Team-CW5/Classification-Data/main/test_with_no_labels.csv") has two columns `message` and `tweetid` it does not contain a `sentiment` column as it is intended that you use the train data to make a model that will predict the `sentiment`
+- [The test data](https://raw.githubusercontent.com/Classification-Team-CW5/Classification-Data/main/test_with_no_labels.csv) has two columns `message` and `tweetid` it does not contain a `sentiment` column as it is intended that you use the train data to make a model that will predict the `sentiment`
 - The test data contains 10547 rows if working in pandas you can see this by using the `.info()` function on the data
 
 [Back to the top](https://github.com/Classification-Team-CW5/Classification-Data#classification-data)
